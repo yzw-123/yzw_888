@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("123");
         System.out.println("dev添加");
         System.out.println("master添加内容");
+        System.out.println("dev添加内容");
     }
 }

@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("测试上传到git");
         System.out.println("主分支添加内容");
         System.out.println("dev分支加内容");
+        System.out.println();
     }
 }
